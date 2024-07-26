@@ -1,2 +1,2 @@
-# weather-forcast
+# weather-forecast
 html,css and js
